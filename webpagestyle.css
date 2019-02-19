@@ -1,0 +1,18 @@
+
+
+.Div1.Div2
+{
+	color: yellow;
+}
+.Div2.Div1
+{
+	color: pink;
+}
+.Div2
+{
+	color: blue;
+}
+.Div1
+{
+	color: orange;
+}
